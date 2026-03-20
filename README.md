@@ -1,3 +1,5 @@
+![Slug WGSL preview](./preview.png)
+
 # Slug Algorithm (WebGPU)
 
 A WebGPU implementation of the Slug algorithm, originally created by Eric Lengyel.
